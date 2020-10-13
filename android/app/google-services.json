@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1031711627763",
+    "firebase_url": "https://hsc-ict-2e552.firebaseio.com",
+    "project_id": "hsc-ict-2e552",
+    "storage_bucket": "hsc-ict-2e552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031711627763:android:394344813497e931219a86",
+        "android_client_info": {
+          "package_name": "com.example.HSC_ICT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031711627763-9gll7vgqu29630cfkuvabtrhltq1bcju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.HSC_ICT",
+            "certificate_hash": "b2033eb5917d501fc93febe5d6fa591578a95193"
+          }
+        },
+        {
+          "client_id": "1031711627763-l2ivkr5737aijld0mt5g2s1d3s1q8tnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcT3nF_U3S_-ybGWKJtQDK8FJ34se6Y6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031711627763-l2ivkr5737aijld0mt5g2s1d3s1q8tnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6104141650729462~2357889277"
+    }
+  ],
+  "configuration_version": "1"
+}
